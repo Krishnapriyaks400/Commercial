@@ -36,3 +36,149 @@
     transform: rotate(360deg);
   }
 }
+#Log{
+  color: black; 
+  background-color: rgb(251, 251, 247);
+  border: #0d0d0e;
+  padding-left: 5%;
+ }
+ #cont{
+   color: black; 
+   background-color: rgb(247, 185, 16);
+  text-align: right;
+  padding-left: 80%;
+ }
+ 
+ 
+div.gallery {
+  margin: 5px;
+  float: left;
+  width: 380px;
+  padding-top: 0%;
+  
+}
+
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  padding-left: 5%;
+  padding:10%;
+ 
+}
+
+div.desc {
+  padding: 1px;
+  text-align: center;
+  color: #750606;
+  font-size: 130%;
+}
+
+.me-2{
+  color: #d4d4db;
+  background-color: #6e6e6e;
+  border: #61dafb;
+ 
+}
+.btn-primary{
+  background-color: #3e3e3e;
+  border: #0d0d0e;
+}
+a:link {
+  text-decoration: none;
+}
+
+#fname {
+  width: 35%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #201e1e;
+  border-radius: 4px;
+  padding-bottom: 1%;
+  border-bottom: #080808;
+  box-sizing: border-box;
+}
+.new{
+  font-size: 150%;
+}
+input[type=submit] {
+  width: 35%;
+  background-color: #f5580f;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  padding-top: 2%;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.formcont{
+  padding: 150px;
+  padding-top: 10%;
+  
+}
+.descriri{
+  padding-left: 10%;
+  color: #575656;
+  padding-top: 0%;
+  font-size: 120%;
+}
+.rate{
+  color: #080808;
+  padding-left: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.womenheading{
+  color: darkblue;
+  font-size: 150%;
+  padding-left: 4%;
+  padding-top: 1%;
+}
+.img-thumbnail{
+  width: 35%;
+  height: 25%;
+}
+.col{
+  width: 500%;
+  height: 1000%;
+}
+.casual{
+  color: #050574;
+}
+.discount{
+  padding-left: 5%;
+  color: rgb(2, 88, 2);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+del{
+  color: #5c5a5a;
+}
+.help{
+  color: #000000;
+  font-size: 150%;
+  padding-left: 3%;
+  padding-top: 2%;
+}
+.what{
+  color: #000000;
+  font-size: 120%;
+  padding-left: 3%;
+  padding-top: 2%;
+  
+}
+.issue{
+  padding-left: 2%;
+  padding-top: 2%;
+ margin: 1%;
+ 
+}
+
+ 
+
+
